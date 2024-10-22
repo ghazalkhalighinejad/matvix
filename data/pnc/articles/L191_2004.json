@@ -1,0 +1,37 @@
+{
+    "Citation": {
+        "CommonFields": {
+            "CitationType": "research article",
+            "Publication": "Polymer",
+            "Title": "Rheological and mechanical properties of PVC/CaCO3 nanocomposites prepared by in situ polymerization",
+            "Author": [
+                "Xie, Xiao-Lin",
+                "Liu, Qing-Xi",
+                "Li, Robert Kwok-Yiu",
+                "Zhou, Xing-Ping",
+                "Zhang, Qing-Xin",
+                "Yu, Zhong-Zhen",
+                "Mai, Yiu-Wing"
+            ],
+            "Keyword": [
+                "Poly(vinyl chloride)",
+                "Calcium carbonate",
+                "In situ polymerization"
+            ],
+            "Publisher": "Elsevier",
+            "PublicationYear": "2004",
+            "DOI": "10.1016/j.polymer.2004.07.045",
+            "Volume": "45",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0032386104007189",
+            "Language": "English",
+            "Location": "Department of Chemistry, Huazhong University of Science and Technology, Wuhan 430074, China",
+            "DateOfCitation": "2019-05-08"
+        },
+        "CitationType": {
+            "Journal": {
+                "ISSN": "00323861",
+                "Issue": "19"
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Citation": {
+        "CommonFields": {
+            "CitationType": "research article",
+            "Publication": "Polymer",
+            "Title": "Polyamide-6,6/in situ silica hybrid nanocomposites by sol\u2013gel technique: synthesis, characterization and properties",
+            "Author": [
+                "Sengupta, Rajatendu",
+                "Bandyopadhyay, Abhijit",
+                "Sabharwal, Sunil",
+                "Chaki, Tapan K.",
+                "Bhowmick, Anil K."
+            ],
+            "Keyword": [
+                "Sol\u2013gel",
+                "Polyamide-6,6",
+                "Nanocomposites",
+                "Sol\u2013gel"
+            ],
+            "Publisher": "Elsevier",
+            "PublicationYear": "2005",
+            "DOI": "10.1016/j.polymer.2005.02.104",
+            "Volume": "46",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S003238610500306X",
+            "Language": "English",
+            "Location": "Rubber Technology Center, Indian Institute of Technology, Kharagpur 721302, India",
+            "DateOfCitation": "2019-05-08"
+        },
+        "CitationType": {
+            "Journal": {
+                "ISSN": "00323861",
+                "Issue": "10"
+            }
+        }
+    }
+}

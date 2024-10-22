@@ -1,0 +1,64 @@
+{
+    "Matrix Component": "Polyamide-imide",
+    "Matrix Abbreviation": null,
+    "Filler Chemical Name": "Silicon dioxide",
+    "Filler Abbreviation": null,
+    "Filler PST": "Aminopropyltriethoxysilane",
+    "Filler Mass": 0.1,
+    "Filler Volume": 0.05619311436485952,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "144.947374314",
+                    "5.69230769231"
+                ],
+                [
+                    "163.238719068",
+                    "14.7179487179"
+                ],
+                [
+                    "200.745157317",
+                    "23.5384615385"
+                ],
+                [
+                    "232.139178144",
+                    "32.1538461538"
+                ],
+                [
+                    "237.768446982",
+                    "40.8717948718"
+                ],
+                [
+                    "260.862725339",
+                    "50.0"
+                ],
+                [
+                    "281.776956668",
+                    "58.5128205128"
+                ],
+                [
+                    "287.842906729",
+                    "67.2307692308"
+                ],
+                [
+                    "298.273989475",
+                    "76.2564102564"
+                ],
+                [
+                    "334.470943903",
+                    "84.9743589744"
+                ],
+                [
+                    "364.555480909",
+                    "93.4871794872"
+                ]
+            ],
+            "headers": [
+                "Breakdown Voltage (kV/mm)",
+                "Probability of Failure (%)"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

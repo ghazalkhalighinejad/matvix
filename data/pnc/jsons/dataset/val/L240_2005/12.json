@@ -1,0 +1,40 @@
+{
+    "Matrix Component": "Poly(ethylene)",
+    "Matrix Abbreviation": "LDPE",
+    "Filler Chemical Name": "Zinc oxide",
+    "Filler Abbreviation": "ZnO",
+    "Filler PST": null,
+    "Filler Mass": 0.8025751072961373,
+    "Filler Volume": 0.4,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "22.0634920635",
+                    "4.88170049441"
+                ],
+                [
+                    "40.0",
+                    "5.0498742302"
+                ],
+                [
+                    "69.9206349206",
+                    "5.90028948738"
+                ],
+                [
+                    "79.9206349206",
+                    "6.2985135311"
+                ],
+                [
+                    "99.9206349206",
+                    "7.28075396825"
+                ]
+            ],
+            "headers": [
+                "Tempeature (deg C)",
+                "Dielectric Constant at 1 kHz"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

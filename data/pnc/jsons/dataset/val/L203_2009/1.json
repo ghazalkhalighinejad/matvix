@@ -1,0 +1,44 @@
+{
+    "Matrix Component": "DGEBA Epoxy Resin",
+    "Matrix Abbreviation": "DGEBA",
+    "Filler Chemical Name": "Carbon black",
+    "Filler Abbreviation": null,
+    "Filler PST": null,
+    "Filler Mass": 0.02,
+    "Filler Volume": 0.01338386829326069,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "20.0061530355",
+                    "3.21063527649e-05"
+                ],
+                [
+                    "99.0588367665",
+                    "3.22274268353e-05"
+                ],
+                [
+                    "996.852895344",
+                    "3.15369949391e-05"
+                ],
+                [
+                    "10110.9331473",
+                    "3.17093795295e-05"
+                ],
+                [
+                    "100157.72762",
+                    "3.85375377755e-05"
+                ],
+                [
+                    "1007911.29825",
+                    "9.73292432362e-05"
+                ]
+            ],
+            "headers": [
+                "Frequency (Hz)",
+                "Conductivity (S/cm)"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

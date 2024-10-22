@@ -1,0 +1,36 @@
+{
+    "Matrix Component": "diglycidyl ether of bisphenol A",
+    "Matrix Abbreviation": null,
+    "Filler Chemical Name": "silica",
+    "Filler Abbreviation": null,
+    "Filler PST": "poly(glycidyl methacrylate)",
+    "Filler Mass": 0.02,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "102.040816327",
+                    "20.9659090909"
+                ],
+                [
+                    "171.428571429",
+                    "22.1022727273"
+                ],
+                [
+                    "193.87755102",
+                    "21.25"
+                ],
+                [
+                    "228.571428571",
+                    "-4.60227272727"
+                ]
+            ],
+            "headers": [
+                "Particle Free Space Length (nm)",
+                "Percent change in AC Breakdown Strength"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

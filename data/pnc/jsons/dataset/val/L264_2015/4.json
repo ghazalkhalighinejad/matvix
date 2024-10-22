@@ -1,0 +1,36 @@
+{
+    "Matrix Component": "Poly(methyl methacrylate)",
+    "Matrix Abbreviation": "PMMA",
+    "Filler Chemical Name": "Cellulose",
+    "Filler Abbreviation": "CNC",
+    "Filler PST": null,
+    "Filler Mass": 0.23,
+    "Filler Volume": 0.186333215921099,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "0.0",
+                    "-4.10160097647"
+                ],
+                [
+                    "50.0",
+                    "2.0474748521"
+                ],
+                [
+                    "100.0",
+                    "4.15704516975"
+                ],
+                [
+                    "1500.0",
+                    "13.4926896933"
+                ]
+            ],
+            "headers": [
+                "adhesion energy",
+                "Tg"
+            ],
+            "property name": "Thermal"
+        }
+    ]
+}

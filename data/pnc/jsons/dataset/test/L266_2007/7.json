@@ -1,0 +1,36 @@
+{
+    "Matrix Component": "Poly(propylene)",
+    "Matrix Abbreviation": "PP",
+    "Filler Chemical Name": "Carbon black",
+    "Filler Abbreviation": "CB",
+    "Filler PST": null,
+    "Filler Mass": 0.04051316677920324,
+    "Filler Volume": 0.02,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "0.159",
+                    "6421.83043057"
+                ],
+                [
+                    "1.0",
+                    "4319.48307274"
+                ],
+                [
+                    "10.0",
+                    "2346.75133079"
+                ],
+                [
+                    "100.0",
+                    "759.070950093"
+                ]
+            ],
+            "headers": [
+                "frequency (rad/s)",
+                "complex viscosity"
+            ],
+            "property name": "Rheological"
+        }
+    ]
+}

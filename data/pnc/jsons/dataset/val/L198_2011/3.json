@@ -1,0 +1,147 @@
+{
+    "Matrix Component": "epoxy",
+    "Matrix Abbreviation": null,
+    "Filler Chemical Name": "carbon nanofibers",
+    "Filler Abbreviation": "CNF",
+    "Filler PST": null,
+    "Filler Mass": null,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "0.0",
+                    "44.6912017819"
+                ],
+                [
+                    "1.0",
+                    "47.8426310283"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "quasi-isotropic modulus(GPa)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "465.764411028"
+                ],
+                [
+                    "1.0",
+                    "503.920177803"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "tensile strength(MPa)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "60.931153866"
+                ],
+                [
+                    "1.0",
+                    "85.3561155416"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "short beam strength(MPa)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "287.860798362"
+                ],
+                [
+                    "1.0",
+                    "296.090071648"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "OHC strength(MPa)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "206.061232363"
+                ],
+                [
+                    "1.0",
+                    "215.991512346"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "stress via extension slope(MPa)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "1.09612121212"
+                ],
+                [
+                    "1.0",
+                    "1.11127272727"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "strain to failure(%)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "182.649136506"
+                ],
+                [
+                    "1.0",
+                    "145.470426934"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "steady-state Gic(J/m2)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "1.1488233081"
+                ],
+                [
+                    "1.0",
+                    "1.81569415016"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "transverse electrical conductivity(S/m)"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

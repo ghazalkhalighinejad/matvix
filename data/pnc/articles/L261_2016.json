@@ -1,0 +1,28 @@
+{
+    "Citation": {
+        "CommonFields": {
+            "CitationType": "research article",
+            "Publication": "High Performance Polymers",
+            "Title": "Effects of functionalized graphene nanoplatelets on the morphology and properties of epoxy resins",
+            "Author": [
+                "Wang, Fuzhong",
+                "Drzal, Lawrence T.",
+                "Qin, Yan",
+                "Huang, Zhixiong"
+            ],
+            "PublicationYear": "2015",
+            "DOI": "10.1177/0954008315588983",
+            "Volume": "28",
+            "URL": "http://journals.sagepub.com/doi/10.1177/0954008315588983",
+            "Language": "English",
+            "Location": "Key Laboratory of Advanced Technology for Specially Functional Materials, School of Material Science and Engineering, Wuhan University of Technology, Wuhan, China",
+            "DateOfCitation": "2019-05-08"
+        },
+        "CitationType": {
+            "Journal": {
+                "ISSN": "1361-6412",
+                "Issue": "5"
+            }
+        }
+    }
+}

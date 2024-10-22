@@ -1,0 +1,32 @@
+{
+    "Citation": {
+        "CommonFields": {
+            "CitationType": "research article",
+            "Publication": "Macromolecules",
+            "Title": "Physical aging of single wall carbon nanotube polymer nanocomposites: effect of functionalization of the nanotube on the enthalpy relaxation",
+            "Author": [
+                "Anny L. Flory",
+                "T. Ramanathan",
+                "L. Catherine Brinson"
+            ],
+            "Keyword": [
+                "SWNT",
+                "PMMA",
+                "nanocomposite"
+            ],
+            "Publisher": "American Chemical Society",
+            "PublicationYear": "2010",
+            "DOI": "10.1021/ma901670m",
+            "Volume": "43",
+            "Language": "English",
+            "Location": "Northwestern University",
+            "DateOfCitation": "6/19"
+        },
+        "CitationType": {
+            "Journal": {
+                "ISSN": "null",
+                "Issue": "9"
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Citation": {
+        "CommonFields": {
+            "CitationType": "research article",
+            "Publication": "Polymer Testing",
+            "Title": "The reinforcing effect of polydopamine functionalized graphene nanoplatelets on the mechanical properties of epoxy resins at cryogenic temperature",
+            "Author": [
+                "Wu, Yeping",
+                "Chen, Maobin",
+                "Chen, Mao",
+                "Ran, Zhipeng",
+                "Zhu, Chunhua",
+                "Liao, Hong"
+            ],
+            "Keyword": [
+                "Polydopamine",
+                "Epoxy nanocomposites",
+                "Mechanical properties",
+                "Cryogenic temperature"
+            ],
+            "Publisher": "Elsevier",
+            "PublicationYear": "2017",
+            "DOI": "10.1016/j.polymertesting.2016.12.021",
+            "Volume": "58",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0142941816312211",
+            "Language": "English",
+            "Location": "Institute of Chemical Materials, China Academy of Engineering Physics, Mianyang, 621900, PR China",
+            "DateOfCitation": "2019-05-08"
+        },
+        "CitationType": {
+            "Journal": {
+                "ISSN": "01429418"
+            }
+        }
+    }
+}

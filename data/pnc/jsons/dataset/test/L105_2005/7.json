@@ -1,0 +1,61 @@
+{
+    "Matrix Component": "Cycloaliphatic Epoxy Resin",
+    "Matrix Abbreviation": "Epoxy",
+    "Filler Chemical Name": "Silver",
+    "Filler Abbreviation": null,
+    "Filler PST": "Mercaptosuccinic Acid",
+    "Filler Mass": 0.6807682956479455,
+    "Filler Volume": 0.192,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "1000.0",
+                    "147.701219924"
+                ],
+                [
+                    "100.0",
+                    "160.042975065"
+                ],
+                [
+                    "10.0",
+                    "183.302023191"
+                ],
+                [
+                    "1.0",
+                    "254.980793536"
+                ]
+            ],
+            "headers": [
+                "Frequency (kHz)",
+                "Relative Dielectric Constant"
+            ],
+            "property name": "Electrical"
+        },
+        {
+            "data": [
+                [
+                    "1.0",
+                    "0.033807628866"
+                ],
+                [
+                    "10.0",
+                    "0.037567628866"
+                ],
+                [
+                    "100.0",
+                    "0.039647628866"
+                ],
+                [
+                    "1000.0",
+                    "0.0456479381443"
+                ]
+            ],
+            "headers": [
+                "Frequency (kHz)",
+                "Tan Delta"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

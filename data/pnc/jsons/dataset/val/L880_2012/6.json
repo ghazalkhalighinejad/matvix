@@ -1,0 +1,79 @@
+{
+    "Matrix Component": "Polyaminide-imide",
+    "Matrix Abbreviation": "PAI",
+    "Filler Chemical Name": "aluminum oxide",
+    "Filler Abbreviation": "alumina",
+    "Filler PST": null,
+    "Filler Mass": 0.075,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "Temperature (Celsius)",
+                    "Real Permittivity"
+                ],
+                [
+                    "30.11173184",
+                    "4.518723994"
+                ],
+                [
+                    "99.72067039",
+                    "4.618585298"
+                ],
+                [
+                    "199.4413408",
+                    "4.801664355"
+                ],
+                [
+                    "300.3351955",
+                    "5.761442441"
+                ]
+            ],
+            "headers": [
+                {
+                    "@id": "0",
+                    "#text": "Fig_5_a_0.075_1Hz"
+                },
+                {
+                    "@id": "1"
+                }
+            ],
+            "property name": "Electrical"
+        },
+        {
+            "data": [
+                [
+                    "Temperature (Celsius)",
+                    "Imaginary Permittivity"
+                ],
+                [
+                    "29.8373387146",
+                    "0.380379746835"
+                ],
+                [
+                    "99.4105057176",
+                    "0.362278481013"
+                ],
+                [
+                    "199.42701645",
+                    "0.324683544304"
+                ],
+                [
+                    "299.206873357",
+                    "0.825949367089"
+                ]
+            ],
+            "headers": [
+                {
+                    "@id": "0",
+                    "#text": "Fig_5_b_0.075_1Hz"
+                },
+                {
+                    "@id": "1"
+                }
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

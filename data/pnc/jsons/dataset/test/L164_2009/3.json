@@ -1,0 +1,44 @@
+{
+    "Matrix Component": "Poly(vinylidene fluoride-co-trifluoroethylene-co-chlorotrifluoroethylene)",
+    "Matrix Abbreviation": "P(VDF-TrFE-CTFE)",
+    "Filler Chemical Name": "Titanium dioxide",
+    "Filler Abbreviation": "TiO2",
+    "Filler PST": "Ba-OH surface group",
+    "Filler Mass": 0.05683192261185007,
+    "Filler Volume": 0.025,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "49.9127061106",
+                    "0.552338530067"
+                ],
+                [
+                    "100.193986421",
+                    "1.99554565702"
+                ],
+                [
+                    "149.854510184",
+                    "3.58129175947"
+                ],
+                [
+                    "174.995150339",
+                    "4.52561247216"
+                ],
+                [
+                    "199.825412221",
+                    "5.84409799555"
+                ],
+                [
+                    "224.966052376",
+                    "7.50111358575"
+                ]
+            ],
+            "headers": [
+                "electric field (MV/m)",
+                "energy density (J/cm^3)"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

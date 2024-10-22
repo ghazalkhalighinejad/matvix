@@ -1,0 +1,173 @@
+{
+    "Matrix Component": "epoxy",
+    "Matrix Abbreviation": null,
+    "Filler Chemical Name": "carbon nanofibers",
+    "Filler Abbreviation": "CNF",
+    "Filler PST": null,
+    "Filler Mass": null,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "0.0",
+                    "136.732904734"
+                ],
+                [
+                    "1.0",
+                    "124.504837976"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "quasi-isotropic modulus modulus(GPa)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "111.494546526"
+                ],
+                [
+                    "1.0",
+                    "131.775572369"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "short beam strength(MPa)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "197.345772819"
+                ],
+                [
+                    "1.0",
+                    "0.0"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "steady-state Gic(J/m2)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.462157615936",
+                    "140.685948408"
+                ],
+                [
+                    "1.57237916172",
+                    "147.251270657"
+                ],
+                [
+                    "2.53073264784",
+                    "151.97882431"
+                ],
+                [
+                    "3.48802966049",
+                    "154.606636964"
+                ],
+                [
+                    "4.50052741136",
+                    "166.945916813"
+                ],
+                [
+                    "5.40724575719",
+                    "169.048629143"
+                ],
+                [
+                    "6.71714078664",
+                    "172.46500019"
+                ],
+                [
+                    "7.42352535289",
+                    "176.404325599"
+                ],
+                [
+                    "8.429684263",
+                    "176.145159453"
+                ],
+                [
+                    "13.6675476115",
+                    "186.398564517"
+                ],
+                [
+                    "18.6022030773",
+                    "194.026302888"
+                ],
+                [
+                    "23.336128586",
+                    "202.703251462"
+                ],
+                [
+                    "28.5709545733",
+                    "206.919901154"
+                ],
+                [
+                    "33.6000323545",
+                    "202.211991304"
+                ],
+                [
+                    "43.5635014832",
+                    "204.606884575"
+                ],
+                [
+                    "48.3853784073",
+                    "188.087271311"
+                ],
+                [
+                    "53.3224109385",
+                    "200.439426929"
+                ]
+            ],
+            "headers": [
+                "crack extension (mm)",
+                "interlaminar fracture toughness (J/m2)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "4.05186405954"
+                ],
+                [
+                    "1.0",
+                    "10.4350862713"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "transverse electrical conductivity(S/m)"
+            ],
+            "property name": "Electrical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "261.245752439"
+                ],
+                [
+                    "1.0",
+                    "253.670811557"
+                ]
+            ],
+            "headers": [
+                "CNF content(phr)",
+                "Glass transition temperature(C)"
+            ],
+            "property name": "Thermal"
+        }
+    ]
+}

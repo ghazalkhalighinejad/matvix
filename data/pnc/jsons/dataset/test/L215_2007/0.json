@@ -1,0 +1,36 @@
+{
+    "Matrix Component": "polystyrene",
+    "Matrix Abbreviation": "PS",
+    "Filler Chemical Name": "silica",
+    "Filler Abbreviation": "SiO2",
+    "Filler PST": null,
+    "Filler Mass": null,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "0.0",
+                    "0.00151924939063"
+                ],
+                [
+                    "0.503355704698",
+                    "0.988096430599"
+                ],
+                [
+                    "2.00223713647",
+                    "2.72391398711"
+                ],
+                [
+                    "5.0",
+                    "6.01644462252"
+                ]
+            ],
+            "headers": [
+                "silica content (wt %)",
+                "the change in glass-transition temperature"
+            ],
+            "property name": "Thermal"
+        }
+    ]
+}

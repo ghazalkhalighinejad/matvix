@@ -1,0 +1,40 @@
+{
+    "Matrix Component": "DGEBA Epoxy Resin",
+    "Matrix Abbreviation": null,
+    "Filler Chemical Name": "Multi-wall carbon nanotubes",
+    "Filler Abbreviation": null,
+    "Filler PST": null,
+    "Filler Mass": 0.0025,
+    "Filler Volume": 0.0010880764157029646,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "0.0",
+                    "3.36752136752"
+                ],
+                [
+                    "0.25",
+                    "4.18803418803"
+                ],
+                [
+                    "0.5",
+                    "-0.461538461538"
+                ],
+                [
+                    "0.75",
+                    "-2.44444444444"
+                ],
+                [
+                    "1.0",
+                    "-0.666666666667"
+                ]
+            ],
+            "headers": [
+                "Diamine Fraction",
+                "Delta(Tg (Cel.))"
+            ],
+            "property name": "Thermal"
+        }
+    ]
+}

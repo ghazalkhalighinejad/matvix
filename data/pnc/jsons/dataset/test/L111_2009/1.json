@@ -1,0 +1,64 @@
+{
+    "Matrix Component": "DGEBA Epoxy Resin",
+    "Matrix Abbreviation": "epoxy",
+    "Filler Chemical Name": "Zinc oxide",
+    "Filler Abbreviation": "ZnO",
+    "Filler PST": null,
+    "Filler Mass": 0.1,
+    "Filler Volume": 0.021890740023246803,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "24.4876",
+                    "6.14936"
+                ],
+                [
+                    "24.650635",
+                    "15.061955"
+                ],
+                [
+                    "24.938622",
+                    "23.477262"
+                ],
+                [
+                    "25.104694",
+                    "32.166916"
+                ],
+                [
+                    "25.229973",
+                    "41.344433"
+                ],
+                [
+                    "25.313839",
+                    "49.180336"
+                ],
+                [
+                    "25.355877",
+                    "58.70154"
+                ],
+                [
+                    "25.524729",
+                    "67.04292"
+                ],
+                [
+                    "26.038057",
+                    "76.24527"
+                ],
+                [
+                    "26.124609",
+                    "84.70152"
+                ],
+                [
+                    "26.517672",
+                    "92.13424"
+                ]
+            ],
+            "headers": [
+                "AC Dielectric Strength (kV/mm)",
+                "Percent"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Matrix Component": "DGEBA Epoxy Resin",
+    "Matrix Abbreviation": "DGEBA",
+    "Filler Chemical Name": "Multi-wall carbon nanotubes",
+    "Filler Abbreviation": null,
+    "Filler PST": null,
+    "Filler Mass": 0.001,
+    "Filler Volume": 0.0004348612484750993,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "20.2680992687",
+                    "3.16040763922e-12"
+                ],
+                [
+                    "100.297566338",
+                    "5.23267464685e-12"
+                ],
+                [
+                    "991.157609085",
+                    "6.24557560992e-11"
+                ],
+                [
+                    "10030.4310295",
+                    "1.04067555226e-09"
+                ],
+                [
+                    "98338.4706909",
+                    "1.17492702866e-08"
+                ],
+                [
+                    "995304.453172",
+                    "1.25485907859e-07"
+                ]
+            ],
+            "headers": [
+                "Frequency (Hz)",
+                "Conductivity (S/cm)"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

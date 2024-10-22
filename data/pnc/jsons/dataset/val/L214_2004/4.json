@@ -1,0 +1,52 @@
+{
+    "Matrix Component": "poly(methyl methacrylate)",
+    "Matrix Abbreviation": "PMMA",
+    "Filler Chemical Name": "alumina",
+    "Filler Abbreviation": "Al2O3",
+    "Filler PST": null,
+    "Filler Mass": null,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "0.010165591824",
+                    "117.178415072"
+                ],
+                [
+                    "0.0488670015582",
+                    "115.777729084"
+                ],
+                [
+                    "0.101990377943",
+                    "117.39780609"
+                ],
+                [
+                    "0.199329712308",
+                    "116.260156785"
+                ],
+                [
+                    "0.500036177451",
+                    "103.959234233"
+                ],
+                [
+                    "1.00329011541",
+                    "94.169189559"
+                ],
+                [
+                    "1.99985530067",
+                    "96.9184192756"
+                ],
+                [
+                    "5.08316367718",
+                    "92.8304839929"
+                ]
+            ],
+            "headers": [
+                "weight fraction of alumina ( log % )",
+                "glass transition temperature ( C )"
+            ],
+            "property name": "Thermal"
+        }
+    ]
+}

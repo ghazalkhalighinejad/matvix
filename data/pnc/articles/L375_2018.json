@@ -1,0 +1,31 @@
+{
+    "Citation": {
+        "CommonFields": {
+            "CitationType": "research article",
+            "Publication": "Macromolecules",
+            "Title": "Impact of an Emergent Hierarchical Filler Network on Nanocomposite Dynamics",
+            "Author": [
+                "Rishi, Kabir",
+                "Beaucage, Gregory",
+                "Kuppa, Vikram",
+                "Mulderig, Andrew",
+                "Narayanan, Vishak",
+                "McGlasson, Alex",
+                "Rackaitis, Mindaugas",
+                "Ilavsky, Jan"
+            ],
+            "PublicationYear": "2018",
+            "DOI": "10.1021/acs.macromol.8b01510",
+            "Volume": "51",
+            "URL": "https://pubs.acs.org/doi/10.1021/acs.macromol.8b01510",
+            "Language": "English",
+            "Location": "Department of Chemical and Materials Engineering, University of Cincinnati, Cincinnati, Ohio 45242-0012, United States"
+        },
+        "CitationType": {
+            "Journal": {
+                "ISSN": "1520-5835",
+                "Issue": "20"
+            }
+        }
+    }
+}

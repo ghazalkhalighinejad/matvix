@@ -1,0 +1,53 @@
+{
+    "Matrix Component": "polyamide",
+    "Matrix Abbreviation": null,
+    "Filler Chemical Name": "silica",
+    "Filler Abbreviation": null,
+    "Filler PST": null,
+    "Filler Mass": null,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "-0.06837977072665158",
+                    "2.0859078884264917"
+                ],
+                [
+                    "5.589504788131004",
+                    "2.335772521233311"
+                ],
+                [
+                    "16.22518912730704",
+                    "2.7903742322746328"
+                ]
+            ],
+            "headers": [
+                "Filler Content (wt %)",
+                "Modulus (GPa)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "-0.0215171515671706",
+                    "0.9997787610619469"
+                ],
+                [
+                    "5.641104566845235",
+                    "1.0176991150442478"
+                ],
+                [
+                    "16.223399532364517",
+                    "1.0973451327433628"
+                ]
+            ],
+            "headers": [
+                "Filler content (wt %)",
+                "sigma(yc)/sigma(yp)"
+            ],
+            "property name": "Mechanical"
+        }
+    ]
+}

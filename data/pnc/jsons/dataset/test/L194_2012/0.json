@@ -1,0 +1,102 @@
+{
+    "Matrix Component": "polystyrene",
+    "Matrix Abbreviation": "PS",
+    "Filler Chemical Name": "silica",
+    "Filler Abbreviation": null,
+    "Filler PST": null,
+    "Filler Mass": null,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "0.0",
+                    "21.620306772"
+                ],
+                [
+                    "2.49783923941",
+                    "21.0031141421"
+                ],
+                [
+                    "4.99567847882",
+                    "22.5343314062"
+                ],
+                [
+                    "7.50216076059",
+                    "25.4789599437"
+                ]
+            ],
+            "headers": [
+                "Silica Loading (mass %)",
+                "Yield Stress (MPa)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.0",
+                    "2.93870346598"
+                ],
+                [
+                    "2.49155722326",
+                    "3.48685307703"
+                ],
+                [
+                    "5.01313320826",
+                    "3.55256300539"
+                ],
+                [
+                    "7.50469043152",
+                    "3.81123893223"
+                ],
+                [
+                    "9.99624765478",
+                    "3.87108444971"
+                ],
+                [
+                    "14.9793621013",
+                    "4.67206203439"
+                ]
+            ],
+            "headers": [
+                "Silica Loading (mass %)",
+                "Elastic Modulus (GPa)"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0.00228108739922",
+                    "2.01302322948"
+                ],
+                [
+                    "2.46202131037",
+                    "3.07958932338"
+                ],
+                [
+                    "4.96212545576",
+                    "4.74541406387"
+                ],
+                [
+                    "7.48254907472",
+                    "2.18224836755"
+                ],
+                [
+                    "10.0130838967",
+                    "0.514688544614"
+                ],
+                [
+                    "15.0443052694",
+                    "0.391740360485"
+                ]
+            ],
+            "headers": [
+                "Silica Loading (mass %)",
+                "Failure Strain (%)"
+            ],
+            "property name": "Mechanical"
+        }
+    ]
+}

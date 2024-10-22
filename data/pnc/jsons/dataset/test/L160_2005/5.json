@@ -1,0 +1,85 @@
+{
+    "Matrix Component": "poly[chlorofluoroethylene-co-trifluoroethylene-co-(vinylidene fluoride)]",
+    "Matrix Abbreviation": "PVDF",
+    "Filler Chemical Name": "carbon nanotube",
+    "Filler Abbreviation": "MWNT",
+    "Filler PST": null,
+    "Filler Mass": null,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "0.0",
+                    "9.599999999999966"
+                ],
+                [
+                    "0.0040740740740740754",
+                    "9.599999999999966"
+                ],
+                [
+                    "0.00814814814814815",
+                    "11.999999999999943"
+                ],
+                [
+                    "0.011975308641975308",
+                    "13.199999999999989"
+                ],
+                [
+                    "0.016049382716049387",
+                    "46.799999999999955"
+                ],
+                [
+                    "0.020000000000000004",
+                    "290.4"
+                ],
+                [
+                    "0.03024691358024692",
+                    "194.39999999999998"
+                ]
+            ],
+            "headers": [
+                "Volume Fraction of MWNT",
+                "Dielectric constant"
+            ],
+            "property name": "Electrical"
+        },
+        {
+            "data": [
+                [
+                    "2.51852561892e-05",
+                    "3.26520641481e-08"
+                ],
+                [
+                    "0.00402616236373",
+                    "6.56560429958e-08"
+                ],
+                [
+                    "0.00803047895276",
+                    "6.17112082884e-08"
+                ],
+                [
+                    "0.0119711598669",
+                    "1.14030662191e-07"
+                ],
+                [
+                    "0.0160232495938",
+                    "2.01998271841e-06"
+                ],
+                [
+                    "0.02000632337",
+                    "0.000239525183768"
+                ],
+                [
+                    "0.0299575143745",
+                    "0.000160901778406"
+                ]
+            ],
+            "headers": [
+                "Volume fraction of MWNTs",
+                "Conductivity (S/m)"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

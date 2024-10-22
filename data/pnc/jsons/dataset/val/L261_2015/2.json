@@ -1,0 +1,44 @@
+{
+    "Matrix Component": "poly(ethylene oxide)",
+    "Matrix Abbreviation": "PEO",
+    "Filler Chemical Name": "poly(ethylene glycol)",
+    "Filler Abbreviation": "PEG",
+    "Filler PST": null,
+    "Filler Mass": null,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "0.00105042016807",
+                    "18.4892703863"
+                ],
+                [
+                    "0.0483193277311",
+                    "21.9889818588"
+                ],
+                [
+                    "0.100840336134",
+                    "20.8532297039"
+                ],
+                [
+                    "0.247899159664",
+                    "17.7555271035"
+                ],
+                [
+                    "0.5",
+                    "16.0944746998"
+                ],
+                [
+                    "1.0",
+                    "10.8670068886"
+                ]
+            ],
+            "headers": [
+                "weight fraction of PEG600",
+                "static dielectric constant"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

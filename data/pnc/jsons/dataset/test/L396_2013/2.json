@@ -1,0 +1,32 @@
+{
+    "Matrix Component": "Poly(ethylene terephthalate)",
+    "Matrix Abbreviation": "PET",
+    "Filler Chemical Name": "Silicon dioxide",
+    "Filler Abbreviation": null,
+    "Filler PST": "polydimethylsiloxane",
+    "Filler Mass": 0.01,
+    "Filler Volume": 0.0051571802358651555,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "30.0",
+                    "1900.0"
+                ],
+                [
+                    "150.0",
+                    "120.0"
+                ],
+                [
+                    "200.0",
+                    "80.0"
+                ]
+            ],
+            "headers": [
+                "Temperature (\u00b0C)",
+                "Storage modulus (MPa)"
+            ],
+            "property name": "Rheological"
+        }
+    ]
+}

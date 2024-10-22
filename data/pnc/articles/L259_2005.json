@@ -1,0 +1,36 @@
+{
+    "Citation": {
+        "CommonFields": {
+            "CitationType": "research article",
+            "Publication": "Polymer",
+            "Title": "Flammability properties of polymer nanocomposites with single-walled carbon nanotubes: effects of nanotube dispersion and concentration",
+            "Author": [
+                "Takashi Kashiwagi",
+                "Fangming Du",
+                "Karen I. Winey",
+                "Katrina M. Groth",
+                "John R. Shields",
+                "Severine P. Bellayer",
+                "Hanson Kim",
+                "Jack F. Douglas"
+            ],
+            "Keyword": [
+                "Nanocomposite",
+                "Flammability",
+                "Single walled carbon nanotube"
+            ],
+            "Publisher": "Elsevier",
+            "PublicationYear": "2005",
+            "DOI": "https://doi.org/10.1016/j.polymer.2004.10.087",
+            "Volume": "46",
+            "Language": "English",
+            "Location": "USA",
+            "DateOfCitation": "8/1/2017"
+        },
+        "CitationType": {
+            "Journal": {
+                "Issue": "2"
+            }
+        }
+    }
+}

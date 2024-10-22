@@ -1,0 +1,29 @@
+{
+    "Citation": {
+        "CommonFields": {
+            "CitationType": "research article",
+            "Publication": "Applied Physics Letters",
+            "Title": "Dielectric behavior of three-phase percolative Ni-BaTiO3/polyvinylidene fluoride composites",
+            "Author": [
+                "Dang, Z.-M.",
+                "Shen, Y.",
+                "Nan, C.-W."
+            ],
+            "Keyword": [
+                "dielectrics",
+                "nickel",
+                "percolation",
+                "capacitors",
+                "dielectric constant"
+            ],
+            "Publisher": "American Institute of Physics",
+            "PublicationYear": "2002",
+            "DOI": "10.1063/1.1529085",
+            "Volume": "81",
+            "URL": "http://goo.gl/04Dg2a",
+            "Language": "English",
+            "Location": "Beijing, China",
+            "DateOfCitation": "7/6/2016"
+        }
+    }
+}

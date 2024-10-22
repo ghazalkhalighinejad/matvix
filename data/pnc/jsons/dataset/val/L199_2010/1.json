@@ -1,0 +1,146 @@
+{
+    "Matrix Component": "Poly(bisphenol A carbonate)",
+    "Matrix Abbreviation": "PC",
+    "Filler Chemical Name": "Multi-wall carbon nanotubes",
+    "Filler Abbreviation": "MWNT",
+    "Filler PST": null,
+    "Filler Mass": 0.05,
+    "Filler Volume": 0.023715415019762848,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "0-199",
+                    "4.27528675704"
+                ],
+                [
+                    "200-399",
+                    "9.74973931178"
+                ],
+                [
+                    "400-599",
+                    "19.2561696211"
+                ],
+                [
+                    "600-799",
+                    "42.4487313173"
+                ],
+                [
+                    "800-999",
+                    "16.9273548836"
+                ],
+                [
+                    "1000-1199",
+                    "8.34202294056"
+                ],
+                [
+                    "1200-1399",
+                    "6.23913799096"
+                ],
+                [
+                    "1400-1599",
+                    "5.82203684393"
+                ],
+                [
+                    "1600-1799",
+                    "0.0"
+                ],
+                [
+                    "1800-1999",
+                    "0.0"
+                ],
+                [
+                    ">2000",
+                    "0.0"
+                ]
+            ],
+            "headers": [
+                "Aspect ratio (L/d)",
+                "Number of MWNT within grip region dissolved in THF"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0-49.99",
+                    "38.1056701031"
+                ],
+                [
+                    "50-99.99",
+                    "22.6454344624"
+                ],
+                [
+                    "100-149.99",
+                    "25.8799705449"
+                ],
+                [
+                    "150-199.99",
+                    "16.2757731959"
+                ],
+                [
+                    "200-249.99",
+                    "0.0"
+                ],
+                [
+                    "250-299.99",
+                    "0.0"
+                ],
+                [
+                    "300-349.99",
+                    "0.0"
+                ],
+                [
+                    "350-399.99",
+                    "0.0"
+                ],
+                [
+                    ">400",
+                    "0.0"
+                ]
+            ],
+            "headers": [
+                "Aspect ratio (L/d)",
+                "Number of MWNT along the fracture edge dissolved in THF"
+            ],
+            "property name": "Mechanical"
+        },
+        {
+            "data": [
+                [
+                    "0-16",
+                    "5.53130884518"
+                ],
+                [
+                    "16-31",
+                    "61.6614849265"
+                ],
+                [
+                    "32-48",
+                    "19.3101372458"
+                ],
+                [
+                    "49-64",
+                    "16.1296621897"
+                ],
+                [
+                    "65-80",
+                    "7.03532270557"
+                ],
+                [
+                    "81-96",
+                    "6.81684536635"
+                ],
+                [
+                    ">97",
+                    "0.0"
+                ]
+            ],
+            "headers": [
+                "Aspect ratio (L/d)",
+                "Number of MWNT along the fracture for EPNT/PC"
+            ],
+            "property name": "Mechanical"
+        }
+    ]
+}

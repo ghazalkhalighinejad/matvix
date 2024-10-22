@@ -1,0 +1,73 @@
+{
+    "Matrix Component": "polyamide",
+    "Matrix Abbreviation": "PA",
+    "Filler Chemical Name": "multi-walled carbon nanotubes",
+    "Filler Abbreviation": "MWCNT",
+    "Filler PST": null,
+    "Filler Mass": null,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "3.25423728814",
+                    "1.09528134736e-11"
+                ],
+                [
+                    "4.10169491525",
+                    "3.88090316339e-10"
+                ],
+                [
+                    "4.8813559322",
+                    "8.644878489e-10"
+                ],
+                [
+                    "5.69491525424",
+                    "1.7108092157e-08"
+                ],
+                [
+                    "6.61016949153",
+                    "9.81962406743e-08"
+                ],
+                [
+                    "13.1186440678",
+                    "0.000153380712542"
+                ]
+            ],
+            "headers": [
+                "CNT (vol. %)",
+                "conductivity (S/cm)"
+            ],
+            "property name": "Electrical"
+        },
+        {
+            "data": [
+                [
+                    "0.0406618940276",
+                    "57970.8133013"
+                ],
+                [
+                    "0.0489537651528",
+                    "110919.980546"
+                ],
+                [
+                    "0.0567138150561",
+                    "1656449.05017"
+                ],
+                [
+                    "0.0661228350287",
+                    "10992485.2213"
+                ],
+                [
+                    "0.131088796759",
+                    "6488332124.28"
+                ]
+            ],
+            "headers": [
+                "volume content of the samples",
+                "reduced conductivity"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

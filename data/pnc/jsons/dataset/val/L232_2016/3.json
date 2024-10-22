@@ -1,0 +1,60 @@
+{
+    "Matrix Component": "Poly(propylene)",
+    "Matrix Abbreviation": null,
+    "Filler Chemical Name": "Silicon dioxide",
+    "Filler Abbreviation": "Silica",
+    "Filler PST": null,
+    "Filler Mass": 0.02,
+    "Filler Volume": 0.0066554467564259485,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "101.906356735",
+                    "2.89210198164"
+                ],
+                [
+                    "140.638875226",
+                    "6.37607772721"
+                ],
+                [
+                    "146.214472945",
+                    "11.6528492004"
+                ],
+                [
+                    "150.66622885",
+                    "19.3097014061"
+                ],
+                [
+                    "165.401661154",
+                    "38.7370054788"
+                ],
+                [
+                    "169.11745178",
+                    "50.4137875659"
+                ],
+                [
+                    "179.572378939",
+                    "70.2519567168"
+                ],
+                [
+                    "185.657447379",
+                    "85.1920625895"
+                ],
+                [
+                    "192.375636516",
+                    "92.0310690923"
+                ],
+                [
+                    "199.558482396",
+                    "96.9832822357"
+                ]
+            ],
+            "headers": [
+                "AC Peak Breakdown Field (kV/mm)",
+                "Probability (Percent)"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

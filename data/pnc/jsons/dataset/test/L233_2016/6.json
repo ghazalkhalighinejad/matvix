@@ -1,0 +1,52 @@
+{
+    "Matrix Component": "polysiloxane",
+    "Matrix Abbreviation": null,
+    "Filler Chemical Name": "titania",
+    "Filler Abbreviation": null,
+    "Filler PST": null,
+    "Filler Mass": 0.02,
+    "Filler Volume": null,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "31.191904129",
+                    "0.0395594631694"
+                ],
+                [
+                    "32.9434989176",
+                    "0.10734678767"
+                ],
+                [
+                    "33.2608177276",
+                    "0.278727318827"
+                ],
+                [
+                    "33.7068038311",
+                    "0.334578338998"
+                ],
+                [
+                    "34.748723989",
+                    "0.706885301883"
+                ],
+                [
+                    "35.4757963137",
+                    "0.823174608264"
+                ],
+                [
+                    "36.5484271836",
+                    "0.908689275692"
+                ],
+                [
+                    "36.5497131001",
+                    "0.972529255484"
+                ]
+            ],
+            "headers": [
+                "AC Breakdown Strenght (MV/mm)",
+                "Probability"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

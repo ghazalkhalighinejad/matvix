@@ -1,0 +1,40 @@
+{
+    "Matrix Component": "Poly(2-hydroxyethyl methacrylate)",
+    "Matrix Abbreviation": null,
+    "Filler Chemical Name": "Barium titanate",
+    "Filler Abbreviation": "BTO",
+    "Filler PST": null,
+    "Filler Mass": 0.05,
+    "Filler Volume": 0.010468033566917554,
+    "Properties": [
+        {
+            "data": [
+                [
+                    "1.3289377637795277",
+                    "12.927059273498953"
+                ],
+                [
+                    "1.6245830118110238",
+                    "31.536708718734975"
+                ],
+                [
+                    "1.7634941732283465",
+                    "50.16534668528176"
+                ],
+                [
+                    "2.0199998385826774",
+                    "68.40664889291371"
+                ],
+                [
+                    "2.1927214055118114",
+                    "87.06150846689663"
+                ]
+            ],
+            "headers": [
+                "Breakdown Voltage (kV/m)",
+                "Probability of Failure (%)"
+            ],
+            "property name": "Electrical"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Citation": {
+        "CommonFields": {
+            "CitationType": "research article",
+            "Publication": "Nature Nanotechnology",
+            "Title": "Functionalized graphene sheets for polymer nanocomposites",
+            "Author": [
+                "Ramanathan, T.",
+                "Abdala, A. A.",
+                "Stankovich, S.",
+                "Dikin, D. A.",
+                "Herrera-Alonso, M.",
+                "Piner, R. D.",
+                "Adamson, D. H.",
+                "Schniepp, H. C.",
+                "Chen, X.",
+                "Ruoff, R. S.",
+                "Nguyen, S. T.",
+                "Aksay, I. A.",
+                "Prud'Homme, R. K.",
+                "Brinson, L. C."
+            ],
+            "Publisher": "Nature Publishing Group",
+            "PublicationYear": "2008",
+            "DOI": "10.1038/nnano.2008.96",
+            "Volume": "3",
+            "URL": "http://www.nature.com/articles/nnano.2008.96",
+            "Language": "English",
+            "Location": "Department of Mechanical Engineering, Northwestern University, Evanston, Illinois 60208, USA",
+            "DateOfCitation": "2016-07-26"
+        },
+        "CitationType": {
+            "Journal": {
+                "ISSN": "1748-3395",
+                "Issue": "6"
+            }
+        }
+    }
+}
