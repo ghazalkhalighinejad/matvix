@@ -10,7 +10,6 @@
   <a href="https://bhuwan-website-link">Bhuwan Dhingra</a>
 </p>
 
----
 
 ## Overview
 **MatViX** is a benchmark dataset and framework designed for multimodal information extraction from visually rich materials science articles. It focuses on extracting structured data from both text, tables, and figures in scientific documents.
