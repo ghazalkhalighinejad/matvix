@@ -1,13 +1,13 @@
 # MatViX: Multimodal Information Extraction from Visually Rich Articles
 
 <p align="center">
-  <a href="https://ghazal-website-link">Ghazal Khalighinejad</a> ·
-  <a href="https://sharon-website-link">Sharon Scott</a> ·
-  <a href="https://ollie-website-link">Ollie Liu</a> ·
-  <a href="https://aman-website-link">Aman Tyagi</a> ·
-  <a href="https://kelly-website-link">Kelly Anderson</a> ·
-  <a href="https://rickard-website-link">Rickard Stureborg</a> ·
-  <a href="https://bhuwan-website-link">Bhuwan Dhingra</a>
+  <a href="https://ghazalkhalighinejad.github.io/">Ghazal Khalighinejad</a> ·
+  <a>Sharon Scott</a> ·
+  <a href="https://ollieliu.com/">Ollie Liu</a> ·
+  <a>Aman Tyagi</a> ·
+  <a>Kelly Anderson</a> ·
+  <a href="https://www.rickard.stureborg.com/">Rickard Stureborg</a> ·
+  <a href="https://users.cs.duke.edu/~bdhingra/">Bhuwan Dhingra</a>
 </p>
 
 
