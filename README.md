@@ -12,6 +12,14 @@
 
 **MatViX** is a benchmark dataset and framework designed for multimodal information extraction from visually rich materials science articles. It focuses on extracting structured data from both text, tables, and figures in scientific documents.
 
+# Installation
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 # Modeling
 
 Follow these instructions to extract structured data from the `PNC` and `PBD` documents.
