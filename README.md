@@ -16,6 +16,16 @@
 
 Follow these instructions to extract structured data from the `PNC` and `PBD` documents.
 
+## Environment Variable Setup
+Before running the commands, make sure to export the necessary environment variables:
+
+```bash
+export PYTHONPATH="your_path_to_this_repo"
+export OPENAI_API_KEY="your_openai_api_key"
+export GOOGLE_API_KEY="your_gemini_api_key"
+export ANTHROPIC_API_KEY="your_anthropic_api_key"
+```
+
 ## For PNC
 To model the PNC data, use the following command:
 ```bash
@@ -42,13 +52,3 @@ python3 pbd/main.py --resume --articles_path <path_to_articles> --model <model_n
   - `only-image_single-image`
   - If you choose `only-image`, you must also provide `--samples_path` with the path from the `only-text` run.
 - **`--deplot`** (Optional): Add this flag if you want to use DePlot for processing figures.
-
-## Environment Variable Setup
-Before running the commands, make sure to export the necessary environment variables:
-
-```bash
-export PYTHONPATH="your_path_to_this_repo"
-export OPENAI_API_KEY="your_openai_api_key"
-export GOOGLE_API_KEY="your_gemini_api_key"
-export ANTHROPIC_API_KEY="your_anthropic_api_key"
-```
