@@ -5,17 +5,16 @@ from tqdm import tqdm
 import argparse
 import logging
 import sys
-sys.path.append("/usr/project/xtmp/gk126/nlp-for-materials/bench/modeling")
 
 from transformers import AutoProcessor, Pix2StructForConditionalGeneration
 from PIL import Image
 from transformers import Pix2StructForConditionalGeneration
 import re
 
-from api.gpt4 import call_gpt4o_vision, call_gpt4o, call_gpt4_turbo_vision, call_gpt4_turbo
+from models.api import call_gpt4o_vision, call_gpt4o, call_gpt4_turbo_vision, call_gpt4_turbo
 
-from api.gemini import call_gemini_pro_vision, call_gemini_pro
-from api.claude import call_claude3_vision, call_claude3, call_claude35_vision, call_claude35
+from models.api import call_gemini_pro_vision, call_gemini_pro
+from models.api import call_claude3_vision, call_claude3, call_claude35_vision, call_claude35
 
 from prompts import get_prompt_dict
 
