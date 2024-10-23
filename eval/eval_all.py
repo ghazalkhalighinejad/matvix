@@ -7,7 +7,7 @@ import json
 from standardize import standardize_property
 
 
-def evaluate(true_folder_path, pred_folder_path):
+def evaluate(true_folder_path, pred_folder_path, task):
 
     pred_jsons = []
 
@@ -33,14 +33,11 @@ def evaluate(true_folder_path, pred_folder_path):
             true_jsons.append(data_true)
 
 
-    matches = eval_composition(pred_jsons, true_jsons)
+    matches = eval_composition(pred_jsons, true_jsons, task)
 
     matched_comps = matches["matched_compositions"]
 
     property_scores_f1 = []
-    num_unmatched_properties = 0
-
-    all_human_eval_matches = []
 
     for match in matched_comps:
         corrects, false_positives, false_negatives = match[2][0], match[2][1], match[2][2]
@@ -58,15 +55,14 @@ def evaluate(true_folder_path, pred_folder_path):
         else:
             f1 = 2 * (precision * recall) / (precision + recall)
 
-        property_score, num_unmatched_properties, human_eval_matches = eval_properties(match[1], match[0])
+        property_score = eval_properties(match[1], match[0], task)
         
         property_scores_f1.append({"f1": f1, "precision": precision, "recall": recall, "property_scores": property_score})
         
-        all_human_eval_matches.extend(human_eval_matches)
 
-    return property_scores_f1, num_unmatched_properties, all_human_eval_matches
+    return property_scores_f1
 
-def main(true_folder_path, pred_folder_path):
+def main(true_folder_path, pred_folder_path, task):
     property_scores_f1 = []
 
 
@@ -82,7 +78,7 @@ def main(true_folder_path, pred_folder_path):
             print(f"Article {article_id} not found in the pred_folder_path")
             continue
         
-        property_score_f1 = evaluate(article_path_true, article_path_pred)
+        property_score_f1 = evaluate(article_path_true, article_path_pred, task)
         property_scores_f1.extend(property_score_f1)
 
 
@@ -94,9 +90,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--true_folder_path", type=str, help="Path to the folder containing the true json files")
     parser.add_argument("--pred_folder_path", type=str, help="Path to the folder containing the predicted json files")
+    parser.add_argument("--task", type=str, help="Task to evaluate: pnc or pbd")
     args = parser.parse_args()
 
-    property_scores_f1, num_unmatched_properties = main(args.true_folder_path, args.pred_folder_path)
+    property_scores_f1 = main(args.true_folder_path, args.pred_folder_path, args.task)
 
     f1 = sum([score["f1"] for score in property_scores_f1]) / len(property_scores_f1)
     precision = sum([score["precision"] for score in property_scores_f1]) / len(property_scores_f1)

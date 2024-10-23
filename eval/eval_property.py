@@ -43,6 +43,11 @@ def eval_data(data_true, data_pred):
     if isinstance(data_true, list):
         if any([data == ['null', 'null'] for data in data_true]):
             data_true = 'null'
+    if data_pred == [] or data_pred is None or data_pred == [[]]:
+        data_pred = 'null'
+    if isinstance(data_pred, list):
+        if any([data == ['null', 'null'] for data in data_pred]):
+            data_pred = 'null'
     if data_pred == data_true:
         return 1
     if data_pred == 'null' or data_true == 'null':
@@ -77,7 +82,6 @@ def eval_property(data_true, data_pred):
     """
     data_true and data_pred are dictionaries with keys "headers" and "data"
     """
-
   
     data_true_header = data_true["headers"]
     try:
@@ -104,12 +108,12 @@ def eval_property(data_true, data_pred):
 
     return scores
 
-def eval_properties(data_true, data_pred, type):
+def eval_properties(data_true, data_pred, task):
 
-    if type == "pnc":
+    if task == "pnc":
         data_true = data_true["Properties"]
         data_pred = data_pred["Properties"]
-    elif type == "pbd":
+    elif task == "pbd":
         data_true = data_true["Biodegradation"]
         data_pred = data_pred["Biodegradation"]
 
